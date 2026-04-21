@@ -16,6 +16,11 @@ header{
     text-align: center;
 
 }
+img{
+    width :200px;
+    height :200px;
+    border-radius:200px;
+}
 table{
     background-color: blueviolet;
     text-align: center;
