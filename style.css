@@ -84,8 +84,8 @@ background-color: red;
 }
 
 nav,ul,li{
-    padding:5px ;
-    margin: 5px;
+    padding:2px ;
+    margin: 20px;
 }
 nav,ul li a{
     color: rgb(19,17,17);
