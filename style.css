@@ -17,10 +17,10 @@ header{
 
 }
 img{
-    width :350px;
-    height :120px;
-    border-radius:15px;
-}
+    width :200px;
+    height :200px;
+    border-radius:50px;
+    object-fit:cover;
 table{
     background-color: blueviolet;
     text-align: center;
