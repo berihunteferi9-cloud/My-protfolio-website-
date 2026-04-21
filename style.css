@@ -20,8 +20,6 @@ img{
     width :250px;
     height :250px;
     border-radius:50%;
-    object-fit:cover;
-    object-middle:top;
 table{
     background-color: blueviolet;
     text-align: center;
