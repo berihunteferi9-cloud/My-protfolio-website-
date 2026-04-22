@@ -15,9 +15,9 @@ header{
     font-size 30px;
     text-align center;}
 #my{
-    width:100px;
+    width:200px;
     height:200px;
-    border-radius:60px;
+    border-radius:100px;
 }
 table{
     background-color: blueviolet;
