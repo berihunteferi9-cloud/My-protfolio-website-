@@ -14,7 +14,11 @@ header{
     padding:1px
     font-size 30px;
     text-align center;}
-table{
+#my{
+    width:200px;
+    height:200px;
+    border-radius:300px;}
+    table{
     background-color: blueviolet;
     text-align: center;
     padding: 50px
