@@ -8,6 +8,11 @@ nav ul a:haver
         padding: px0;
         margin: px0;
         text-align: center;}
+#my{
+    width:200px;
+    height:20px;
+border-radius:200px;
+}
 
 header{
     background-color: gray;
