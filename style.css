@@ -146,11 +146,12 @@ label {
 }
 
 input {
-    border: 1px solid #f4f4f4;
+    border: 1px solid yellowgreen;
     padding: 10px;
     border-radius: 1rem;
     height: auto; 
-    width: 10%;
+    width: 100%;
+ margin-bottom:2rem;
 }
 
 textarea {
