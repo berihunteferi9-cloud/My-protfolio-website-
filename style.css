@@ -1,6 +1,7 @@
 
 body{
         background-color: aqua;
+        font-family:area,sans-serif ; 
         padding: 0px;
         margin: 0px;
         text-align: center;}
@@ -150,10 +151,10 @@ max-width: 50px;
 }
 form,input{
     border: 0px solid #f4f4f4;
-    padding: 3px;
-    margin: 5px;
+    padding: 0px;
+    margin: 0px;
     border-radius: 1rem;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 max-width: 20px;
 display: block;
 width: 200px;
