@@ -13,7 +13,7 @@ header{
     table{
     background-color: blueviolet;
     text-align: center;
-    padding: 50px
+  
     transition: transform 0.3s;
 position: relative
 top: 100px
@@ -59,7 +59,7 @@ padding-bottom: 10px;
     background-color:aqua;
     max-width: 800px;
     margin: 0 auto;
-    line-height: 1.6;
+    line-height: 1.6rem;
     font-size: 1.1rem;
 }
 
@@ -110,13 +110,13 @@ text-align: center;
 }
 #skill{
  background-color:gray;
- gap:10px;
- margin:100px;
+ gap:50px;
+ margin:10px;
  
 }
 ul {
     list-style-type: none;
-    padding: 0;   
+    padding: 10px;   
 }
 ul li{
     background-color: aqua;
@@ -172,7 +172,7 @@ button{
     margin: center;
     padding:10px;
  width: 30px;
-    border-radius: 20px;
+    border-radius: 2px;
     justify-self: center;
     background-color: yellow;
 }
