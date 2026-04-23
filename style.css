@@ -85,6 +85,10 @@ nav,ul,li{
     margin: 10px;
  background-color:aqua;
 }
+nav,ul,li a:hover{
+ color:red;
+}
+
 nav,ul li a{
     color: rgb(19,17,17);
     text-decoration: none;
