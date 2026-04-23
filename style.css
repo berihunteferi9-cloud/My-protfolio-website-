@@ -139,13 +139,7 @@ form{
     
 }
 label{
-padding: 20px;  
-margin: 20px; 
-max-width: 50px;
-    border-radius: 33px;
-    margin: auto;
-    margin-bottom:30px;
-    text-align: center;
+display:grid;
     
 }
 form,input{
