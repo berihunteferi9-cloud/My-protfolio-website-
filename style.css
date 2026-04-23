@@ -111,14 +111,19 @@ text-align: center;
 #skill{
  background-color:gray;
  gap:40px ;}
+ul{
+ display:flex;
+ display:wrap:wrap;
+ list-style:none;
+}
 ul li{
     background-color: aqua;
-    padding: 0px;
-    max-width: 50px;
+    padding: 150px 20px;
+    max-width: 150px;
     margin: 10px ;
  gap:30px;
  text-align: center;
-    border-radius: spx;
+    border-radius: 10px;
     box-shadow: 0 3px rgb(0,0,0.1);
 }
 
@@ -170,6 +175,9 @@ button {
     border: none;
     cursor: pointer;
     justify-self: center;
+}
+footer {
+ 
 }
 
 
