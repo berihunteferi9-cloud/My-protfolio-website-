@@ -125,41 +125,51 @@ ul li{
 #contact{
  background-color:yellow;
  text-align:center;}
- form{
-    display:grid;
-    gap:1rem;
-  
- }
- label{
-  display:grid;
-  height:100px;}
-  form,input{
-    border: 0.px solid #f4f4f4;
-    padding:0.5rem;
-    margin: 1.5px;
-    border-radius: 1rem;
-   height:150px;
- }
- textarea{
-    border-radius:1rem;
-    padding:0.95rem 1.7rem;
-  height:200px;
- }
- button{
-    display:grid;
-    margin:center;
-    padding:0.5rem 0.4rem 0.3rem;
-   font-weight:70px;
-    border-radius:996px;
-    justify-self: center;
-    background:#24a81f;
-    font-size: 1rem;
-  height:100px;}
-footer{
-   background: #343a3b;
-   padding: 6px;
-   margin: 5px;
+
+#contact {
+    background-color: yellow;
+    text-align: center;
+    padding: 2rem; /* ትንሽ ክፍተት እንዲኖረው */
 }
- 
+
+form {
+    display: grid;
+    gap: 1rem;
+    max-width: 500px; 
+    margin: 0 auto;  
+}
+
+label {
+    display: block;
+    text-align: left; 
+    font-weight: bold;
+}
+
+input {
+    border: 1px solid #f4f4f4;
+    padding: 0.8rem;
+    border-radius: 1rem;
+    height: auto; 
+    width: 100%;
+}
+
+textarea {
+    border-radius: 1rem;
+    padding: 0.95rem;
+    height: 150px; 
+    width: 100%;
+}
+
+button {
+    padding: 0.8rem 2rem;
+    border-radius: 996px;
+    background: #24a81f;
+    color: white;
+    border: none;
+    cursor: pointer;
+    justify-self: center;
+}
+
+
 
  
