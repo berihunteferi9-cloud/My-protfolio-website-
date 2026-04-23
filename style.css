@@ -15,7 +15,6 @@ header{
     text-align: center;
     padding: 50px
     transition: transform 0.3s
-max-width: 800px
 position: relative
 top: 100px
 left: 50px
@@ -24,7 +23,7 @@ table,th,tr,td{
     text-align: center;
  padding : 10px;
  justify-content: center;
- margin: 600px;
+ margin: 0px;
  margin-top: 30px;
  margin-bottom: 4px;
  padding-bottom: 0px;
@@ -132,7 +131,7 @@ form{
     background-color:yellow;    
 }
 label{
-padding: 40px;  
+padding: 20px;  
 margin: 20px; 
 max-width: 800px;
     border-radius: 33px;
@@ -147,7 +146,7 @@ form,input{
     margin: 15px;
     border-radius: 1rem;
     margin-bottom: 30px;
-max-width: 800px;
+max-width: 200px;
 display: block;
 width: 100%;
 margin: auto;
