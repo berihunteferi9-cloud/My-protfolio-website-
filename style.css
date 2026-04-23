@@ -118,10 +118,6 @@ ul {
     list-style-type: none;
     padding: 20px;   
 }
-li{
- margin:px;
- gap:30px;
-}
 ul li{
     background-color: aqua;
     padding: 0px;
