@@ -107,3 +107,36 @@ text-align: center;
 .project.project:haver{
  transform: scale(1.05);
 }
+form{
+    display:grid;
+    gap:1rem;
+ }
+ label{
+    display:grid;
+ }
+ form,input{
+    border: 0.px solid #f4f4f4;
+    padding:0.5rem;
+    margin: 1.5px;
+    border-radius: 1rem;
+ }
+ textarea{
+    border-radius:1rem;
+    padding:0.95rem 1.7rem;
+ }
+ button{
+    display:grid;
+    margin:center;
+    padding:0.5rem 0.4rem 0.3rem;
+   font-weight:70px;
+    border-radius:996px;
+    justify-self: center;
+    background:#24a81f;
+    font-size: 1rem;
+
+}
+footer{
+   background: #343a3b;
+   padding: 6px;
+   margin: 5px;
+}
