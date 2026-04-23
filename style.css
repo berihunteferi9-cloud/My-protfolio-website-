@@ -110,17 +110,17 @@ text-align: center;
 skill {
    background-color:yellow;
     text-align:center;
-    padding: 60px 10px;
-    gap: 50px;
+    padding:10%;
+    gap: 50%;
  }
   ul{
-    display: flex;
+
     list-style: none;
-    padding: 20px;
+    padding: 15%;
  }
  li{
-    margin: 10px;
-    gap: 30px;
+    margin: 10%;
+    gap: 50%;
  }
  .home-text{
     color:rgb(158, 117, 117);
