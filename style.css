@@ -75,10 +75,7 @@ justify-content: center;
 align-items: center;
     background-color:gray;
 }
-header:hover{
-    background-color:yellow:
-    color:green;
-}
+
 
 nav,ul,li{
     padding:10px ;
