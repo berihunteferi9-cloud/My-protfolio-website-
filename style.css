@@ -108,9 +108,11 @@ text-align: center;
 .project.project:haver{
  transform: scale(1.05);
 }
-.skill{
+#skill{
  background-color:gray;
- gap:30px;
+ gap:50px;
+ margin:10px;
+ 
 }
 ul {
     list-style-type: none;
