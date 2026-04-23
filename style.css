@@ -32,7 +32,7 @@ table,th,tr,td{
  padding-right: 1px;
 }
 
-home{
+#home{
     background-color:green;
     display: flex;
     flex-direction: column;
@@ -107,8 +107,11 @@ text-align: center;
  margin-bottom: 20px;
 }
 .project.project:haver{
-
-    transform: scale(1.05);
+ transform: scale(1.05);
+}
+.skill{
+ background-color:gray;
+ gap:30px;
 }
 ul {
     list-style-type: none;
