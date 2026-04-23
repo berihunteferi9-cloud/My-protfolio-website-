@@ -130,7 +130,7 @@ ul li{
 }
 form{
     display: grid;
-    gap: 1rem;
+    gap: 100px;
     background-color:yellow;    
 }
 label{
