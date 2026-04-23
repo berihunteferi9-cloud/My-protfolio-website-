@@ -111,23 +111,18 @@ text-align: center;
 #skill{
  background-color:gray;
  gap:50px;
- margin:10px;
- 
+ padding :60px 10px; 
 }
 ul {
+ display:flex;
     list-style-type: none;
-    padding: 10px;   
+    padding: 20px;   
 }
-ul li{
-    background-color: aqua;
-    padding: 0px;
-    max-width: 50px;
-    margin: 10px ;
+li{
+ margin:px;
  gap:30px;
- text-align: center;
-    border-radius: spx;
-    box-shadow: 0 3px rgb(0,0,0.1);
 }
+
 #contact{
  background-color:yellow;
  text-align:center;}
