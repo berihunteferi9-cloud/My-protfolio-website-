@@ -21,6 +21,7 @@ left: 50px
 nav {
   background-color: #00ffff; 
   display: flex;
+flex-wrap:no erap,
   justify-content: space-around; 
   align-items: center;
   padding: 15px 0;
