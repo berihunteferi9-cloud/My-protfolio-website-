@@ -1,7 +1,4 @@
 
-nav ul a:haver
-{
-    color: yellow;
 }
  body{
         background-color: aqua;
@@ -75,10 +72,10 @@ header  nav,ul{
     padding:0px;
     margin: 0px;
     display: flex;
-gap: 30px;
+gap: 10px;
 justify-content: center;
 align-items: center;
-    background-color:aqua;
+    background-color:gray;
 }
 header:hover{
     background-color:yellow:
