@@ -157,8 +157,9 @@ input {
 textarea {
     border-radius: 1rem;
     padding: 0.95rem;
-    height: 15px; 
-    width: 10%;
+    height: 150px; 
+    width: 100%;
+ margin-button:1.5rem;
 }
 
 button {
