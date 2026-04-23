@@ -131,6 +131,7 @@ ul li{
   
  }
  label{
+  display:grid;
   height:100px;}
   form,input{
     border: 0.px solid #f4f4f4;
