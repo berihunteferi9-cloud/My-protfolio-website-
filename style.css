@@ -18,6 +18,22 @@ position: relative
 top: 100px
 left: 50px
 }
+nav {
+  background-color: #00ffff; 
+  display: flex;
+  justify-content: space-around; 
+  align-items: center;
+  padding: 15px 0;
+  width: 100%;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+
 table,th,tr,td{
     text-align: center;
  padding : 10px;
