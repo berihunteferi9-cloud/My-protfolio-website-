@@ -128,15 +128,18 @@ ul li{
     border-radius: spx;
     box-shadow: 0 3px rgb(0,0,0.1);
 }
+#contact{
+ background-color:rgb;
+}
 form{
     display: grid;
-    gap:80px;
-    background-color:yellow;    
+    gap:30px;
+    
 }
 label{
 padding: 20px;  
 margin: 20px; 
-max-width: 100px;
+max-width: 50px;
     border-radius: 33px;
     margin: auto;
     margin-bottom:30px;
@@ -149,9 +152,9 @@ form,input{
     margin: 15px;
     border-radius: 1rem;
     margin-bottom: 30px;
-max-width: 200px;
+max-width: 20px;
 display: block;
-width: 100%;
+width: 10%;
 margin: auto;
 margin-bottom: 20px;
 
@@ -169,7 +172,7 @@ button{
     margin: center;
     padding: 0.5rem 0.4rem 0.3rem;
     width: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     justify-self: center;
     background-color: yellow;
 }
