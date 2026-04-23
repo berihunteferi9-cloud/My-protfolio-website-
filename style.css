@@ -182,12 +182,12 @@ form{
  }
  form,input{
     border: 0.px solid #f4f4f4;
-    padding:0.5rem;
-    margin: 1.5px;
-    border-radius: 1rem;
+    padding:20px;
+    margin: 50pxpx;
+    border-radius: 300px;
  }
  textarea{
-    border-radius:1rem;
+    border-radius:50px;
     padding:0.95rem 1.7rem;
  }
  button{
