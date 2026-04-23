@@ -150,16 +150,16 @@ input {
     padding: 10px;
     border-radius: 1rem;
     height: auto; 
-    width: 10%;
- gap:10px; 
+    width: 90%;
+ 
 }
 
 textarea {
     border-radius: 1rem;
     padding:10px;
-    height: auto; 
-    width:10%;
- gap:10px;
+    height: 150px; 
+    width:90%;
+ 
 }
 
 button {
