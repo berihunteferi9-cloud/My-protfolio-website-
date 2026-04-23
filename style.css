@@ -1,5 +1,4 @@
 
-}
  body{
         background-color: aqua;
         padding: px0;
@@ -21,9 +20,8 @@ position: relative
 top: 100px
 left: 50px
 }
-table,th,tr,td
+table,th,tr,td{
     text-align: center;
-
  padding : 10px;
  justify-content: center;
  margin: 600px;
@@ -34,8 +32,8 @@ table,th,tr,td
  padding-right: 1px;
 }
 
-.home{
-    background-color: yellow;
+home{
+    background-color:gray;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -85,6 +83,7 @@ header:hover{
 nav,ul,li{
     padding:10px ;
     margin: 10px;
+ background-color:aqua;
 }
 nav,ul li a{
     color: rgb(19,17,17);
