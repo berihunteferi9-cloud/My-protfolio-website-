@@ -150,8 +150,8 @@ input {
     padding: 10px;
     border-radius: 1rem;
     height: auto; 
-    width: 100%;
- margin-bottom:2rem;
+    width: 10%;
+ gap:10px; 
 }
 
 textarea {
