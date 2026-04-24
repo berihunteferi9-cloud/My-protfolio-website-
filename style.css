@@ -39,6 +39,8 @@ table,th,tr,td{
     text-align: center;
     min-height: 30vh;
     color: blue;
+        width:100%;
+        
 }
 #about{
     background-color: darkkhaki;
