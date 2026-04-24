@@ -126,7 +126,8 @@ text-align: center;
 form{
     display:grid;
     gap:1rem;
-        background-color:green;
+        background-color:aqua,
+                
  }
  label{
     display:grid;
@@ -138,7 +139,7 @@ form{
     padding:0.5rem;
     margin: 1.5px;
     border-radius: 1rem;
-         background-color:green;
+
          color:greenyellow; }
  textarea{
     border-radius:1rem;
