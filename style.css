@@ -53,6 +53,8 @@ table,th,tr,td{
     text-align: center;
     min-height: 30vh;
     color: blue;
+     position: relative; 
+  z-index: 1;    
 }
 #about{
     background-color: darkkhaki;
