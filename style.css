@@ -1,12 +1,13 @@
 body{
         background-color:gray;
-        padding: 1px;
-        margin: 2px;
+        padding: 0px;
+        margin: 0px;
         text-align: center;}
 
 header{
     background-color: gray;
-    padding:1px
+    padding:1px;
+            margin:0px;
     font-size 30px;
     text-align center;}
     table{
@@ -23,6 +24,7 @@ flex-wrap:no erap,
   align-items: center;
   padding: 15px 0;
   width: 100%;
+        margin:0px;
 }
 
 nav a {
@@ -37,7 +39,7 @@ table,th,tr,td{
  padding : 10px;
  justify-content: center;
  margin: 0px;
- margin-top: 30px;
+ margin-top: 3px;
  margin-bottom: 4px;
  padding-bottom: 0px;
  padding-left: 10px;
