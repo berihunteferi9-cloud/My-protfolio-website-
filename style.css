@@ -74,16 +74,12 @@ gap: 10px;
 align-items: center;
     background-color:gray;
 }
-nav{
-        justify-content:star;
-}
-
 
 nav,ul,li{
     padding:10px ;
     margin: 10px;
  background-color:aqua;
-        max-width:100px;
+        
 }
 nav,ul,li a:hover{
  color:red;
