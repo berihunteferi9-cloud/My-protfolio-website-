@@ -12,11 +12,6 @@ header{
     table{
     background-color: blueviolet;
     text-align: center;
-  
-    transition: transform 0.3s;
-position: relative
-top: 10px
-left: 5px
 }
 table,th,tr,td{
     text-align: center;
