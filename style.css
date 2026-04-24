@@ -12,10 +12,10 @@ header{
 justify-content:center;}
 .nav-menu {
   display: flex;              
-  justify-content: center;    
+  "space-around"; 
   align-items: center;        
   gap: 20px;                 
-  flex-wrap: wrap;           
+         
   width: 100%;               
 }
 
