@@ -126,19 +126,25 @@ text-align: center;
 form{
     display:grid;
     gap:1rem;
+        background-color:gray;
  }
  label{
     display:grid;
+         background-color:yellowgreen;
+         color:blueviolet;
  }
  form,input{
     border: 0.px solid #f4f4f4;
     padding:0.5rem;
     margin: 1.5px;
     border-radius: 1rem;
- }
+         background-color:gray;
+         color:greenyellow; }
  textarea{
     border-radius:1rem;
     padding:0.95rem 1.7rem;
+         background-color:gray;
+         color:blue;
  }
  button{
     display:grid;
@@ -147,8 +153,8 @@ form{
    font-weight:70px;
     border-radius:996px;
     justify-self: center;
-    background:#24a81f;
-    font-size: 1rem;
+background-color:yellow;
+        font-size: 1rem;
 
 }
 footer{
