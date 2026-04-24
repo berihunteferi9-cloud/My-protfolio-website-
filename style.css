@@ -15,8 +15,8 @@ header{
   
     transition: transform 0.3s;
 position: relative
-top: 100px
-left: 50px
+top: 10px
+left: 5px
 }
 table,th,tr,td{
     text-align: center;
