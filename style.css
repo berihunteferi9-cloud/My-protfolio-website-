@@ -126,7 +126,7 @@ text-align: center;
 form{
     display:grid;
     gap:1rem;
-        background-color:gray;
+        background-color:green;
  }
  label{
     display:grid;
@@ -138,12 +138,12 @@ form{
     padding:0.5rem;
     margin: 1.5px;
     border-radius: 1rem;
-         background-color:gray;
+         background-color:green;
          color:greenyellow; }
  textarea{
     border-radius:1rem;
     padding:0.95rem 1.7rem;
-         background-color:gray;
+         background-color:chocolate;
          color:blue;
  }
  button{
