@@ -72,6 +72,9 @@ gap: 20px;
 align-items: center;
     background-color:gray;
 }
+nav{
+        justify-content:star;
+}
 
 
 nav,ul,li{
