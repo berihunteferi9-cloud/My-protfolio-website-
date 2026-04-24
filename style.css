@@ -24,9 +24,9 @@ flex-wrap:no erap,
   justify-content: space-around; 
   align-items: center;
   padding: 15px 0;
-  width: 1000%;
+  width: 100%;
         margin:0px;
-}
+        height:100%;
 
 nav a {
   text-decoration: none;
