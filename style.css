@@ -8,7 +8,8 @@ header{
     background-color: gray;
     padding:0px;
         margin:0px;
-        text-align center;}
+        display-flex;
+justify-content:center;}
     table{
     background-color: blueviolet;
     text-align: center;
